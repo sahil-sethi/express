@@ -1,0 +1,16 @@
+{
+  "name": "express-test",
+  "version": "1.0.0",
+  "description": "Create server with express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "node-fetch": "^1.6.3"
+  }
+}
